@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Baith4"
+    }
+  },
+  "defaultProject": "Baith4",
+  "cli": {
+    "analytics": "0edc935f-d40f-4e67-9b85-49b775aeeeb5"
+  }
 }
